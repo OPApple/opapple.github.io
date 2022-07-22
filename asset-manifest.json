@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/opapple.github.io/static/css/main.3e6d0737.css",
+    "main.js": "/opapple.github.io/static/js/main.3ee140ed.js",
+    "index.html": "/opapple.github.io/index.html",
+    "main.3e6d0737.css.map": "/opapple.github.io/static/css/main.3e6d0737.css.map",
+    "main.3ee140ed.js.map": "/opapple.github.io/static/js/main.3ee140ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6d0737.css",
+    "static/js/main.3ee140ed.js"
+  ]
+}
