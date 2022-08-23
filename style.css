@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+
+.header{
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.link-container{
+    text-align: center;
+    
+}
+
+.link-container a{
+    
+    color: inherit;
+    text-decoration: none;
+    background: 
+    linear-gradient(to right, aquamarine, aquamarine),
+    linear-gradient(to right, green, blue, lightblue);
+    background-size: 100% 0.1em, 0 0.1em;
+    background-position: 100% 100%, 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 400ms;
+}
+
+.link-container a:hover{
+    background-size: 0 0.1em, 100% 0.1em;
+}
